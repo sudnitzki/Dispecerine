@@ -1,1 +1,2 @@
-ptint("kuku")
+print("hello world")
+print("didpecerine")
