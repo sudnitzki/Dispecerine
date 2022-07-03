@@ -19,5 +19,5 @@ from dispatcher.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('dispatcher/', index)
+    path('dispatcher/', index),
 ]
